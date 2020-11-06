@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "aplifyphotobookyt34fab4ba": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
